@@ -3,3 +3,6 @@ numpy
 Pillow
 matplotlib
 pandas
+llama-index
+langchain
+protobuf
